@@ -1,10 +1,8 @@
-# gcm-aula02
-
 # Atores/Atrizes preferidos
 
 * Sylvester Stallone
 
-* Anthony Hopkins
+* Michael Douglas
 
 * Marlon Brando
 
