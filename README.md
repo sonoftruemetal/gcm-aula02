@@ -6,6 +6,8 @@
 
 * Robert De Niro
 
+* Michael Douglas
+
 * Marlon Brando
 
 * Al Pacino
